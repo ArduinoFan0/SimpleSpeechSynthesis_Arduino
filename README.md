@@ -4,7 +4,7 @@ True speech synthesis for Arduino. Most other libraries that advertise text to s
 If you want to test a board, you can submit the test results in an issue. It will then go to Unconfirmed tests, where it can be confirmed by the owner.
 
 Confirmed tests:
-- Arduino Uno ✔️ (Output on pin D10)
+- Arduino Uno R3 ✔️ (Output on pin D10)
 - Arduino Micro ✔️ (Output on pin D10)
 
 Unconfirmed tests:
